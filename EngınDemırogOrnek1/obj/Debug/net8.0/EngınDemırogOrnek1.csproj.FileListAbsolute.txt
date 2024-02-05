@@ -1,0 +1,14 @@
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\bin\Debug\net8.0\EngınDemırogOrnek1.exe
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\bin\Debug\net8.0\EngınDemırogOrnek1.deps.json
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\bin\Debug\net8.0\EngınDemırogOrnek1.runtimeconfig.json
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\bin\Debug\net8.0\EngınDemırogOrnek1.dll
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\bin\Debug\net8.0\EngınDemırogOrnek1.pdb
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\EngınDemırogOrnek1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\EngınDemırogOrnek1.AssemblyInfoInputs.cache
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\EngınDemırogOrnek1.AssemblyInfo.cs
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\EngınDemırogOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\EngınDemırogOrnek1.dll
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\refint\EngınDemırogOrnek1.dll
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\EngınDemırogOrnek1.pdb
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\EngınDemırogOrnek1.genruntimeconfig.cache
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\ref\EngınDemırogOrnek1.dll
