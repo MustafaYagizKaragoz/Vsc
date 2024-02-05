@@ -27,8 +27,6 @@ internal class Program
         products.Add(product2);
         products.Add(product3);
 
-        //AAAAAAAAAA
-
         Console.WriteLine("Foreach ile");
         foreach (var product in products)
         {
