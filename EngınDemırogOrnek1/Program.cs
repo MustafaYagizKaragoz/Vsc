@@ -26,6 +26,7 @@ internal class Program
         products.Add(product1);
         products.Add(product2);
         products.Add(product3);
+        //MERHABAA
 
         Console.WriteLine("Foreach ile");
         foreach (var product in products)
