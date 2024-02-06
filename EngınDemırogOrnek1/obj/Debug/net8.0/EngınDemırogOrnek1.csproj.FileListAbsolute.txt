@@ -12,3 +12,4 @@ C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net
 C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\EngınDemırogOrnek1.pdb
 C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\EngınDemırogOrnek1.genruntimeconfig.cache
 C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\ref\EngınDemırogOrnek1.dll
+C:\Users\YAĞIZPC\source\EngınDemırogOrnek1\EngınDemırogOrnek1\obj\Debug\net8.0\EngınDemırogOrnek1.sourcelink.json
